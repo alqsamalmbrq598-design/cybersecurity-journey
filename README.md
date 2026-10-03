@@ -8,10 +8,9 @@
 - Networking (CCNA)
 - Python
 
-## 🧪 المختبرات
-| التاريخ | المنصة | الغرفة/الصندوق | الحالة |
+## 🧪 المختبرات| التاريخ | المنصة | الغرفة/الصندوق | الحالة |
 |---|---|---|---|
-| 2026-10-03 | TryHackMe | Pre-Security Path | ⏳ |
+| 2026-10-03 | TryHackMe | [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) | ✅ |
 
 ## 🎯 الهدف
 - [ ] إنهاء مسار Pre-Security
