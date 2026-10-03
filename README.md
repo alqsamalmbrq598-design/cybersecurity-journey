@@ -8,12 +8,11 @@
 - Networking (CCNA)
 - Python
 
-## 🧪 المختبرات
+## 🧪 مختبرات الأمن السيبراني
 
-| التاريخ | المنصة | الغرفة/الصندوق | الحالة |
-| --- | --- | --- | --- | --- |
-| 2026-10-03 | TryHackMe | [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) | ✅ |
-
+| المختبرات | التاريخ | المنصة | الغرفة/الصندوق | الحالة |
+|---|---|---|---|---|
+| Intro to Offensive Security | 2026-10-03 | TryHackMe | 🟩 | ✅ مكتمل |
 ## 🎯 الهدف
 - [ ] إنهاء مسار Pre-Security
 - [ ] Python - Automate tasks
