@@ -17,6 +17,12 @@
 - [ ] إنهاء مسار Pre-Security
 - [ ] Python - Automate tasks
 - [ ] eJPT Certificate
+## 🏅 الشهادات
+- [ ] eJPT (قيد التقدم)
+- [ ] OSCP (المستقبل)
 
 ## 📌 روابط
-- TryHackMe: رابط ملفك الشخصي هنا
+- TryHackMe: - TryHackMe: https://tryhackme.com/p/اسم_المستخدم_الخاص_بك
+
+## 🔧 مشاريعي
+- سكربتات Python للأتمتة (قريباً)
